@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'raspberrypi4'
+  name: 'Default'
 
 steps:
 - task: Maven@3
