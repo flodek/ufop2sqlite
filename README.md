@@ -1,4 +1,4 @@
-![build status](https://dev.azure.com/vshumara/ThePipeline/_apis/build/status/flodek.ufop2sqlite?branchName=master)
+[![Build Status](https://dev.azure.com/vshumara/ThePipeline/_apis/build/status/flodek.ufop2sqlite?branchName=master)](https://dev.azure.com/vshumara/ThePipeline/_apis/build/status/flodek.ufop2sqlite?branchName=master)
 
 # ufop2sqlite
 The application converts EDR FOP xml data file into sqlite database.
