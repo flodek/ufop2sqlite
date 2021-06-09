@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  name: 'raspberrypi4'
 
 steps:
 - task: Maven@3
